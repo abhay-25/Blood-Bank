@@ -41,5 +41,6 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "proxy": "https://blood-bank-loe3.onrender.com:4000/api/v1"
 }
