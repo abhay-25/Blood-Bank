@@ -42,5 +42,5 @@
       "last 1 safari version"
     ]
   },
-  "proxy": "https://blood-bank-loe3.onrender.com:8080/api/v1"
+  "proxy": "https://blood-bank-loe3.onrender.com/api/v1"
 }
